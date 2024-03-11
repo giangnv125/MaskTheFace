@@ -10,7 +10,7 @@
 </p>
 
 ## Overview
-- This masked face generation based on [this repo](https://github.com/aqeelanwar/MaskTheFace)
+- This masked face generation based on [this repo](https://github.com/aqeelanwar/MaskTheFace) to convert face datasets to masked face datasets
 - It uses a dlib based face landmarks detector to identify the face tilt and six key features of the face necessary for applying mask.
 
 ## Installation & Running

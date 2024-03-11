@@ -1,0 +1,8 @@
+dlib
+dotmap
+face-recognition
+opencv-python
+Pillow
+tqdm
+imutils
+requests
